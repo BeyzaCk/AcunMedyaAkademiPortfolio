@@ -1,4 +1,4 @@
-# ⭐AdminPanalliPortfolyoProjesi
+# ⭐AdminPanelliPortfolyoProjesi
 ## Kişisel Portföy Web Sitesi
 
 
