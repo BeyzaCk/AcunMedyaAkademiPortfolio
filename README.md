@@ -6,19 +6,19 @@ Bu proje Acunmedya Akademi tarafından düzenlenen "C# Programlama" Eğitimi kap
 Kişisel yetenekler, yapılan projeler, sunulan hizmetler gibi özellikleri sergilemek amacı taşımaktadır.
 
 ## ⭐Özellikler
-*Ana Sayfa:* Ziyaretçileri karşılayan bir giriş bölümünden oluşmaktadır.
+**Ana Sayfa:** Ziyaretçileri karşılayan bir giriş bölümünden oluşmaktadır.
 
-*Hakkımda:* Kişisel biyografi içermektedir.
+**Hakkımda:** Kişisel biyografi içermektedir.
 
-*Yeteneklerim:* Teknik ve profesyonel becerilerimi içermektedir.
+**Yeteneklerim:** Teknik ve profesyonel becerilerimi içermektedir.
 
-*Hizmetlerim:* Sunduğum hizmetleri içermektedir.
+**Hizmetlerim:** Sunduğum hizmetleri içermektedir.
 
-*Projelerim:* Öne çıkan projelerim ve GitHub sayfamın linkinden oluşmaktadır.
+**Projelerim:** Öne çıkan projelerim ve GitHub sayfamın linkinden oluşmaktadır.
 
-*Referanslarım:* Önceki projelerimden aldığım geribildirimleri içermektedir.
+**Referanslarım:** Önceki projelerimden aldığım geribildirimleri içermektedir.
 
-*İletişim:* Ziyaretçilerin bana ulaşabilmesi için iletişim formu içerir.
+**İletişim:** Ziyaretçilerin bana ulaşabilmesi için iletişim formu içerir.
 
 ## ⭐Kullanılan Teknolojiler ve Uygulamalar
 ASP.Net MVC
