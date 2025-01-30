@@ -1,0 +1,104 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+@Html.Action("PartialHead","Default")
+<body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+
+    @Html.Action("PartialNavbar", "Default")
+
+    @Html.Action("PartialFeature", "Default")
+
+    @Html.Action("PartialStatistic", "Default")
+
+
+
+    <section class="ftco-about ftco-section ftco-no-pt ftco-no-pb" id="about-section">
+        <div class="container">
+            <div class="row d-flex no-gutters">
+                <div class="col-md-6 col-lg-5 d-flex">
+                    <div class="img-about img d-flex align-items-stretch">
+                        <div class="overlay"></div>
+                        <div class="img d-flex align-self-stretch align-items-center" style="background-image: url(/Template/clyde-master/images/abaoutimg.jpg);">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-7 pl-md-4 pl-lg-5 py-5">
+                    <div class="py-md-5">
+                        <div class="row justify-content-start pb-3">
+                            <div class="col-md-12 heading-section ftco-animate">
+                                @Html.Action("PartialAbout", "Default")
+
+                                <ul class="about-info mt-4 px-md-0 px-2">
+                                    <li class="d-flex"><span>Ad:</span> <span>Beyza</span></li>
+                                    <li class="d-flex"><span>Soyad:</span> <span>Coşkun</span></li>
+                                    <li class="d-flex"><span>Adres:</span> <span>İstanbul,Türkiye</span></li>
+
+                                    <li class="d-flex"><span>Email:</span> <span>beyzack08@gmail.com</span></li>
+                                    <li class="d-flex"><span>Telefon: </span> <span>0506*******</span></li>
+                                </ul>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="my-interest d-lg-flex w-100">
+                                   
+                                    <ul class="ftco-footer-social list-unstyled mt-2">
+                                        <li class="d-flex"><span>Linkedin ve GitHub Hesaplarım:</span> </li>
+                                        <li class="ftco-animate"><a href="https://tr.linkedin.com/in/beyza-co%C5%9Fkun-6a47902a6?trk=people-guest_people_search-card"><span class="fa fa-linkedin"></span></a></li>
+
+                                        <li class="ftco-animate"><a href="https://github.com/BeyzaCk"><span class="fa fa-github"></span></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    @Html.Action("PartialSkills", "Default")
+
+    @Html.Action("PartialServices", "Default")
+
+
+    <section class="ftco-hireme">
+        <div class="container">
+            <div class="row justify-content-between">
+                <div class="col-md-8 col-lg-8 d-flex align-items-center">
+                    <div class="w-100 py-4">
+                        <h2>Aklınızda bir proje mi var? </h2>
+                        <p>Benimle iletişime geçebilirsiniz.</p>
+                        <p class="mb-0"><a href="#contact-section" class="btn btn-white py-3 px-4">Bana Ulaş</a></p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-lg-4 d-flex align-items-end">
+                    <img src="images/author.png" class="img-fluid" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+    @Html.Action("PartialProjects", "Default")
+
+    @Html.Action("PartialTestimonial", "Default")
+
+    @Html.Action("PartialContact", "Default")
+
+
+    @Html.Action("PartialFooter", "Default")
+
+
+
+    @Html.Action("PartialScript", "Default")
+
+
+
+    <!-- loader -->
+    <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" /><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00" /></svg></div>
+
+
+  
+
+</body>
+</html>

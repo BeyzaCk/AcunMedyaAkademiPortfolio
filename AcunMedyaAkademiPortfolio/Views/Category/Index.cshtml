@@ -1,0 +1,25 @@
+﻿﻿@model List<AcunMedyaAkademiPortfolio.Models.TblCategory>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";}
+
+<table class=" table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Isim</th>
+        <th>Güncelle</th>
+        <th>Sil</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.CategoryId</td>
+            <td>@item.CategoryName</td>
+            <td><a href="/Category/UpdateCategory/@item.CategoryId" class="btn btn-warning">Güncelle</a></td>
+            <td><a href="/Category/DeleteCategory/@item.CategoryId" class="btn btn-danger">Sil</a></td>
+
+        </tr>
+
+    }
+</table>
+<td><a href="/Category/CreateCategory" class="btn btn-success">Kategori Ekle</a></td>
