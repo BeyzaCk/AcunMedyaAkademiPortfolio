@@ -22,32 +22,43 @@ Kişisel yetenekler, yapılan projeler, sunulan hizmetler gibi özellikleri serg
 
 ## ⭐Kullanılan Teknolojiler ve Uygulamalar
 ASP.Net MVC
+
 Linq Sorgular
+
 Layout Kontrolü
+
 Db First yaklaşımı
+
 Temel CRUD İşlemleri
+
+
 Partial View Kullanımı
+
 Model, View, Controller Yapıları
+
 Entity Framework Sorguları
+
 Bootstrap Kullanımı
+
 Microsoft SQL Server
 
 ## ⭐Projeye Ait Örnek Görseller
 
-![main](https://github.com/user-attachments/assets/e0a2fe42-712f-464f-8370-a13ab426cc94)
+![main](https://github.com/user-attachments/assets/8ee2eba1-382d-4787-80c2-113155e0016c)
 
-![Hakkımda](https://github.com/user-attachments/assets/57f75224-665b-4d02-ad22-b6d06799048d)
+![Hakkımda](https://github.com/user-attachments/assets/0434f46b-df99-4291-9dce-afb13681be78)
 
-![ref](https://github.com/user-attachments/assets/638c7a2f-f43e-429f-85af-50982daf53b2)
+![ref](https://github.com/user-attachments/assets/aab6eba8-b6cd-433a-9879-80491c98b8a9)
 
 ## ✦Admin Paneline Ait Görseller
 
-![projeler](https://github.com/user-attachments/assets/709c9455-5179-4d01-9b42-e19bb47914cd)
+![projeler](https://github.com/user-attachments/assets/1107c819-b519-4da7-b024-bd0d399dd7ca)
 
-![istatistik](https://github.com/user-attachments/assets/a87b43a7-72b6-4a00-9ef3-c31a463e4e72)
+![istatistik](https://github.com/user-attachments/assets/69b3e700-22c0-4300-8bb6-0d95b2098d06)
 
-![Hizmetler](https://github.com/user-attachments/assets/e7419980-e6a9-4e05-ac0e-cf8c3bccb425)
+![Hizmetler](https://github.com/user-attachments/assets/541ea5a5-789c-4ba1-be48-7085e1572319)
+
 
 ## ✦Veri Tabanı
 
-![model](https://github.com/user-attachments/assets/54cd0e77-7cea-4be8-8298-657133bdb2e9)
+![model](https://github.com/user-attachments/assets/34460963-dbc0-4bcb-ac66-2a3e521e7f25)
