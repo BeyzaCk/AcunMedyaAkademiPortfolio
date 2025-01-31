@@ -52,11 +52,11 @@ Microsoft SQL Server
 
 ## ✦Admin Paneline Ait Görseller
 
-![projeler](https://github.com/user-attachments/assets/1107c819-b519-4da7-b024-bd0d399dd7ca)
+![referanslar](https://github.com/user-attachments/assets/d31c9ef8-3086-437b-b6f7-285797e2e2c2)
 
-![istatistik](https://github.com/user-attachments/assets/69b3e700-22c0-4300-8bb6-0d95b2098d06)
+![istatistik2](https://github.com/user-attachments/assets/5bd711bb-ac79-42e5-94ef-7d1d1c7063eb)
 
-![Hizmetler](https://github.com/user-attachments/assets/541ea5a5-789c-4ba1-be48-7085e1572319)
+![hizmetlerim](https://github.com/user-attachments/assets/6cafd2a8-0474-4e09-942f-99ce71b8d9b1)
 
 
 ## ✦Veri Tabanı
